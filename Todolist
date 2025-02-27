@@ -2,6 +2,10 @@ https://www.codingnepalweb.com/responsive-portfolio-website-using-html-css-javas
 
 https://www.codingnepalweb.com/website-login-registration-form-html-css-javascript/
 
+https://www.codingnepalweb.com/navigation-bar-in-html-css-javascript-dark-light-mode/
+
+https://www.codingnepalweb.com/toast-notification-html-css-javascript/
+
 <script type="module">
   // Import the functions you need from the SDKs you need
   import { initializeApp } from "https://www.gstatic.com/firebasejs/11.3.1/firebase-app.js";
